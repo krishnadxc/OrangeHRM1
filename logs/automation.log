@@ -1,0 +1,282 @@
+22:24:22.526 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\AppData\Local\Temp\testng-eclipse-296068848\testng-customsuite.xml"
+22:24:22.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+22:24:22.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+22:24:22.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:22.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:22.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:22.957 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:22.958 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:22.958 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:22.968 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+22:24:22.981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+22:24:22.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:22.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:22.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:22.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:22.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:22.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:22.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:22.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:22.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:22.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:23.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:23.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:23.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:23.007 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:23.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+22:24:23.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:23.029 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:23.030 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:23.030 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:23.030 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:23.035 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\AppData\Local\Temp\testng-eclipse-296068848\testng-customsuite.xml
+
+22:24:23.050 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+22:24:32.116 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+22:24:32.534 [main] INFO  testCases.TC01_LoginTest - entered username
+22:24:32.676 [main] INFO  testCases.TC01_LoginTest - entered password
+22:24:33.449 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+22:24:33.846 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@b174a73: 86 ms
+22:24:33.860 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5b84f14: 13 ms
+22:24:33.873 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@28e19366: 13 ms
+22:24:33.881 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c891ba7: 8 ms
+22:24:33.891 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2a03d65c: 10 ms
+22:24:33.891 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6642dc5a: 0 ms
+22:38:51.277 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\AppData\Local\Temp\testng-eclipse-692789816\testng-customsuite.xml"
+22:38:51.649 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.651 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+22:38:51.653 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.653 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.654 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.655 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.655 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.655 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.660 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+22:38:51.670 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+22:38:51.671 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.671 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.671 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.672 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.672 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.672 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.680 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.681 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.681 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.681 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.698 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.698 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.698 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.698 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.706 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+22:38:51.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:51.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:51.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\AppData\Local\Temp\testng-eclipse-692789816\testng-customsuite.xml
+
+22:38:51.729 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+22:38:58.124 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+22:38:58.604 [main] INFO  testCases.TC01_LoginTest - entered username
+22:38:58.735 [main] INFO  testCases.TC01_LoginTest - entered password
+22:38:59.638 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+22:39:00.154 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@45bb2aa1: 84 ms
+22:39:00.167 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3e84111a: 13 ms
+22:39:00.177 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@67594471: 10 ms
+22:39:00.183 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7d5508e0: 6 ms
+22:39:00.183 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@68fe48d7: 0 ms
+22:39:00.198 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@379ce046: 0 ms
+22:42:00.179 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\testng.xml"
+22:42:00.561 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\testng.xml
+
+22:42:06.549 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+22:42:06.945 [main] INFO  testCases.TC01_LoginTest - entered username
+22:42:07.052 [main] INFO  testCases.TC01_LoginTest - entered password
+22:42:07.893 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+22:54:02.290 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\testng.xml"
+22:54:02.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\testng.xml
+
+22:54:09.927 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+22:54:10.313 [main] INFO  testCases.TC01_LoginTest - entered username
+22:54:10.456 [main] INFO  testCases.TC01_LoginTest - entered password
+22:54:12.604 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+22:59:27.583 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Crossbrowsertesting.xml"
+22:59:27.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Crossbrowsertesting.xml
+
+22:59:32.770 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+22:59:33.146 [main] INFO  testCases.TC01_LoginTest - entered username
+22:59:33.254 [main] INFO  testCases.TC01_LoginTest - entered password
+22:59:34.084 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+22:59:39.150 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+22:59:39.583 [main] INFO  testCases.TC01_LoginTest - entered username
+22:59:39.756 [main] INFO  testCases.TC01_LoginTest - entered password
+22:59:40.564 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+23:00:08.770 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+23:00:08.927 [main] INFO  testCases.TC01_LoginTest - entered username
+23:00:09.001 [main] INFO  testCases.TC01_LoginTest - entered password
+23:00:10.164 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+06:24:39.806 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Crossbrowsertesting.xml"
+06:24:40.341 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Crossbrowsertesting.xml
+
+06:24:47.935 [TestNG-tests-2] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+06:24:48.362 [TestNG-tests-2] INFO  testCases.TC01_LoginTest - entered username
+06:24:48.619 [TestNG-tests-2] INFO  testCases.TC01_LoginTest - entered password
+06:24:49.569 [TestNG-tests-2] INFO  testCases.TC01_LoginTest - clicked on submit button
+06:24:49.937 [TestNG-tests-1] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+06:24:50.385 [TestNG-tests-1] INFO  testCases.TC01_LoginTest - entered username
+06:24:50.615 [TestNG-tests-1] INFO  testCases.TC01_LoginTest - entered password
+06:24:51.498 [TestNG-tests-1] INFO  testCases.TC01_LoginTest - clicked on submit button
+06:24:52.522 [TestNG-tests-3] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+06:24:52.784 [TestNG-tests-3] INFO  testCases.TC01_LoginTest - entered username
+06:24:52.868 [TestNG-tests-3] INFO  testCases.TC01_LoginTest - entered password
+06:24:53.873 [TestNG-tests-3] INFO  testCases.TC01_LoginTest - clicked on submit button
+07:08:56.706 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+07:08:57.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+07:09:03.408 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+07:09:03.864 [main] INFO  testCases.TC01_LoginTest - entered username
+07:09:04.018 [main] INFO  testCases.TC01_LoginTest - admin123
+07:09:04.951 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+07:18:52.783 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+07:18:53.200 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+07:18:58.589 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+07:18:59.051 [main] INFO  testCases.TC01_LoginTest - entered username
+07:18:59.197 [main] INFO  testCases.TC01_LoginTest - admin123
+07:19:00.206 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+07:20:41.045 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+07:20:41.356 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+07:20:46.753 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+07:20:47.209 [main] INFO  testCases.TC01_LoginTest - entered username
+07:20:47.370 [main] INFO  testCases.TC01_LoginTest - admin123
+07:20:48.176 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+07:23:08.856 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+07:23:09.186 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+07:23:16.049 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+07:23:16.447 [main] INFO  testCases.TC01_LoginTest - entered username
+07:23:16.568 [main] INFO  testCases.TC01_LoginTest - admin123
+07:23:17.342 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+07:42:07.464 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+07:42:07.748 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+07:42:14.035 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+07:42:14.420 [main] INFO  testCases.TC01_LoginTest - entered username
+07:42:14.568 [main] INFO  testCases.TC01_LoginTest - admin123
+07:42:14.618 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+07:46:21.523 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+07:46:21.914 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+07:46:40.062 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+07:46:41.046 [main] INFO  testCases.TC01_LoginTest - entered username
+07:46:41.175 [main] INFO  testCases.TC01_LoginTest - admin123
+07:46:41.256 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+07:53:32.442 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+07:53:32.829 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+07:53:38.267 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+07:53:38.656 [main] INFO  testCases.TC01_LoginTest - entered username
+07:53:38.803 [main] INFO  testCases.TC01_LoginTest - admin123
+07:53:39.643 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+07:54:57.096 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+07:54:57.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+07:55:03.872 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+07:55:04.310 [main] INFO  testCases.TC01_LoginTest - entered username
+07:55:04.448 [main] INFO  testCases.TC01_LoginTest - admin123
+07:55:05.552 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+12:17:43.611 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+12:17:44.085 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+12:18:34.302 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+12:18:34.680 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+13:30:22.540 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+13:30:22.916 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+13:31:34.732 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+13:31:35.140 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+13:31:35.594 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+13:35:54.234 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+13:35:54.649 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+13:35:55.003 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+13:41:43.112 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+13:41:43.474 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+13:41:43.810 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+13:42:27.655 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+13:42:28.030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+13:42:35.736 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+13:42:36.224 [main] INFO  testCases.TC01_LoginTest - entered username
+13:42:36.377 [main] INFO  testCases.TC01_LoginTest - admin123
+13:42:37.217 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+13:50:55.960 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+13:50:56.260 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+13:51:04.050 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+13:51:04.701 [main] INFO  testCases.TC01_LoginTest - entered username
+13:51:04.793 [main] INFO  testCases.TC01_LoginTest - admin123
+13:51:05.836 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+13:52:10.258 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+13:52:10.579 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+13:54:47.235 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+13:54:47.659 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+16:16:14.216 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+16:16:14.765 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+16:17:57.228 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+16:17:57.512 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+16:18:51.292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+16:18:51.534 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+16:19:55.078 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+16:19:55.360 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+16:20:01.338 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+16:20:01.810 [main] INFO  testCases.TC01_LoginTest - entered username
+16:20:01.924 [main] INFO  testCases.TC01_LoginTest - admin123
+16:20:01.990 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
+16:24:45.741 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\docker-compose.yaml"
+16:35:49.065 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml"
+16:35:49.311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\koush\eclipse-workspace\OrangeHRM\Master.xml
+
+16:35:56.313 [main] INFO  testCases.TC01_LoginTest - *** Login Test Started ***
+16:35:56.806 [main] INFO  testCases.TC01_LoginTest - entered username
+16:35:56.919 [main] INFO  testCases.TC01_LoginTest - admin123
+16:35:56.985 [main] INFO  testCases.TC01_LoginTest - clicked on submit button
